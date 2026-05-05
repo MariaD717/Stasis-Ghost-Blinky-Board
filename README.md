@@ -22,6 +22,6 @@ Schematic
 PCB
 <img width="769" height="712" alt="Screenshot 2026-04-30 210257" src="https://github.com/user-attachments/assets/6714a337-0169-4f4d-a5de-68d3a4120c69" />
 
-BoM
+# BoM
 
 Link to my [BoM](https://github.com/MariaD717/Stasis-Ghost-Blinky-Board/blob/main/BoM.csv)
